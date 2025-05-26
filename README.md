@@ -1,14 +1,17 @@
 👋 Hello, I'm Eric Hervinn (Software Engineer)
 
 I am a backend developer currently enrolled in ALX's Backend Development program. I build innovative web applications and data-driven solutions with Django (Python), machine learning, and database management. My mission is to leverage technology to improve healthcare, politics, and education across Africa.
+
 🙋‍♂️ Why I Became a Software Engineer
 
 I discovered my passion for technology early on when I built my first website in high school. Seeing how code could solve real-world problems inspired me to pursue software engineering. At ALX, I've honed my skills and learned that with the right tools, I can make a difference. Now, I want to use my skills to create solutions that empower communities and drive development across Africa.
+
 💙 My Passions
 
 💻 Web Development (Django): Crafting scalable, secure backends and RESTful APIs with Django and Python.
 🤖 Machine Learning: Developing predictive models and analytics tools to tackle complex challenges.
 🗄 Database Management: Designing efficient SQL and NoSQL databases and optimizing data storage and retrieval.
+
 🌍 My Mission & Vision
 
 My mission is to use software to create a positive impact in Africa. I envision:
